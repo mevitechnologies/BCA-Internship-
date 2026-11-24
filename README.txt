@@ -1,0 +1,2 @@
+MEVI TECHNOLOGIES LLP | BCA Internship Website
+Extract all files and open index.html. Bootstrap, CSS, JavaScript and illustrations are local. Official logo uses a remote URL with local fallback. Course filters, fee estimator, learning path finder and classroom project exploration checklists work in the browser. Checklists are stored locally where supported. Enquiry text is copied, not submitted to a server.
